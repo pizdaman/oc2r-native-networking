@@ -2,6 +2,7 @@
 
 The Java ICMP functions don't work on some operating systems without admin/root, so a native library is required.
 
+Forked for builds
 ## Platform support:
 
 ### Officially supported:
